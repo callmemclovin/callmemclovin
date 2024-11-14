@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @callmemclovin
+- 👋 Hi, I’m Colton
 - 👀 I’m interested in ... Music Production - Data Science - AI/ML - Technology - Mental Health - Psychology - Sales - Problem-Solving
-- 🌱 I’m currently learning ... Googles Data Analysis 
-- 💞️ I’m looking to collaborate on ... Fixing the supply chain with the power of machine learning, automation, and data-driven decision-making via business analytics. 
+- 🌱 AI-SaaS Business Owner
+- 💞️ I’m looking to collaborate on ... Assisting SMBs and SMEs with the integration and digital transformation to keep up with the brick-and-mortar companies 
 - 📫 How to reach me ... https://www.linkedin/in/coltonlovelace1
 
 <!---
